@@ -2,7 +2,7 @@ A machine learning project that detects whether an email is spam or safe using N
 ## Features
 - Classifies emails as spam or ham
 - Uses Naive Bayes with CountVectorizer/TF‑IDF
-- Achieves ~96% accuracy
+- Achieves ~93% accuracy
 
 ## Tech Stack
 - Python
